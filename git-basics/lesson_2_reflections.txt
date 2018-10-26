@@ -32,7 +32,10 @@ the diagram the way we do?
 
 	The result of merging two branches is one branch which keeps all commits
 	from these branches. We represent it, because it's hard to understand by 
-	looking at command line	
+	looking at command line.	
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	
+	Automatic merging can help me, but if changes're small. If I have big 
+	difference between two versions of files I'm better do it manually.
