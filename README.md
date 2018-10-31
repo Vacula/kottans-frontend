@@ -1,7 +1,7 @@
 # kottans-frontend
 ## Tasks
 - [x] [1. Git basics](task-git-github-inro/)
-- [ ] [2. Linux, Command Line, HTTP Tools](task-linux-cli/)
+- [x] [2. Linux, Command Line, HTTP Tools](task-linux-cli/)
 - [ ] [3. VCS (hello gitty), GitHub and Collaboration]()
 - [x] [4. Intro to HTML & CSS](task-html-css-intro/)
 
