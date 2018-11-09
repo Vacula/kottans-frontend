@@ -2,7 +2,7 @@
 ## Tasks
 - [x] [1. Git basics](task-git-github-inro/)
 - [x] [2. Linux, Command Line, HTTP Tools](task-linux-cli/)
-- [x] [3. VCS (hello gitty), GitHub and Collaboration]()
+- [x] [3. VCS (hello gitty), GitHub and Collaboration](task-git-collaboration)
 - [x] [4. Intro to HTML & CSS](task-html-css-intro/)
 
 ## My impressions about learned materials
