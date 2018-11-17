@@ -6,6 +6,7 @@
 - [x] [4. Intro to HTML & CSS](task-html-css-intro/)
 - [x] [5. Responsive web design](task-responsive-web-design/)
 - [x] [6. JS basics](task-js-basics/)
+- [x] [7. DOM](task-dom/)
 
 ## My impressions about learned materials
 - [1. Git Basics](task-git-github-inro/impressions.md)
@@ -14,3 +15,4 @@
 - [4. Intro to HTML & CSS](task-html-css-intro/impressions.md)
 - [5. Responsive web design](task-responsive-web-design/impressions.md)
 - [6. JS basics](task-js-basics/impressions.md)
+- [7. DOM](task-dom/impressions.md)
